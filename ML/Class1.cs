@@ -9,6 +9,7 @@ namespace ML
     public class Class1
     {
         public int MyProperty { get; set; }
+        public int Victor { get; set; }
         public int Jorge { get; set; }
         public int Jorge2 { get; set; }
         public int Jorge3 { get; set; }
