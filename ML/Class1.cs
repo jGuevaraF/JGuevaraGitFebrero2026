@@ -10,5 +10,8 @@ namespace ML
     {
         public int MyProperty { get; set; }
         public int Jorge { get; set; }
+        public int Jorge2 { get; set; }
+        public int Jorge3 { get; set; }
+        public int Jorge { get; set; }
     }
 }
